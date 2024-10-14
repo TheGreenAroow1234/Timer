@@ -1,0 +1,14 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    color: yellow;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2021/04/28/23/58/ice-6215207_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.card1{
+    padding-top: 100px;
+    text-align: center;
+}
